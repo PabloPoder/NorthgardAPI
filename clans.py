@@ -9,7 +9,7 @@ clans = [
         "lore_tree": "https://imgur.com/dHaAEKQ",
         "relic": "⚱️Horn of Managarm: Summons up to 3 White Wolves under your control for 🍎 50 Food each, with the cost being reduced by half if you build it in a Wolf Den tile. You can summon them every 2 months. 3 is the total maximum number; if you summon 3 wolves and lose 2 of them, next time the Horn of Managarm is off cooldown you will be able to summon only 2 wolves.",
         "clan_color": "0x582036",
-        "avatar": "https://imgur.com/Cul2Gu4.png",
+        "avatar": "https://imgur.com/Cul2Gu4",
     },
     {
         "name": "Raven Clan",
@@ -19,7 +19,7 @@ clans = [
         "lore_tree": "https://imgur.com/mJIzgeX",
         "relic": "⚱️Naglfar : Allows you to send two Son of Hrymr to raid coastal tiles.\nMercenaries are unaffected by ⚒️ Weaponsmith and ⚔️ Gear Upgrade, but they benefit from  🧣Fur Coats.",
         "clan_color": "0x5E5656",
-        "avatar": "https://imgur.com/o1zBfVL.png",
+        "avatar": "https://imgur.com/o1zBfVL",
 
     },
     {
@@ -30,7 +30,7 @@ clans = [
         "lore_tree": "https://imgur.com/aLArvIw",
         "relic": "⚱️Flame of Muspelheim : You can summon 🐗 Garm's Incarnation at a 🏥 Shaman Camp.",
         "clan_color": "0x633C83",
-        "avatar": "https://imgur.com/G1bnFaX.png",
+        "avatar": "https://imgur.com/G1bnFaX",
 
     },
     {
@@ -41,7 +41,7 @@ clans = [
         "lore_tree": "https://imgur.com/QOZxYTs",
         "relic": "⚱️Edda of Vör : Allows your Norns to earn 👑 Fame, at a rate of 👑 1.2 Fame per month. Grants ⌛ 1000 Wyrd once built.",
         "clan_color": "0x3F8B74",
-        "avatar": "https://imgur.com/uEiyqkt.png",
+        "avatar": "https://imgur.com/uEiyqkt",
 
     },
     {
@@ -52,7 +52,7 @@ clans = [
         "lore_tree": "https://imgur.com/W6trmyj",
         "relic": "⚱️Yggdrasil's root : The zone where Yggdrasil's Root is built becomes 'Eldritch'. Every 4 months, another zone becomes eldritch. Units in Eldritch zones benefit from periodical production bonuses. Enemy units in an eldritch zone have a chance to pick a fight with their own kin for 5s.",
         "clan_color": "0xF97900",
-        "avatar": "https://imgur.com/quydmeP.png",
+        "avatar": "https://imgur.com/quydmeP",
 
     },
     {
@@ -63,7 +63,7 @@ clans = [
         "lore_tree": "https://imgur.com/3arSkhT",
         "relic": "⚱️Dainsleif & Tyrfing : Gives your warchiefs, Eitria and Brok +20% 🩸, +20% ⚔️, +20% 🛡️, +20% mining and +20% forge speed.",
         "clan_color": "0xCCA9A9",
-        "avatar": "https://imgur.com/shptxDu.png",
+        "avatar": "https://imgur.com/shptxDu",
 
     },
     {
@@ -74,7 +74,7 @@ clans = [
         "lore_tree": "https://imgur.com/pAnDJQ4",
         "relic": "⚱ Hlidskjalf : Gives your Warchief the Annexation ability. Whenever your Warchief decolonizes a zone, you colonize it for free.\n As of the Swords and Solace update, the relic now instead allows you to train Einherjar by assigning them to Hlidskjalf.",
         "clan_color": "0xE5D9D9",
-        "avatar": "https://imgur.com/LpHOObW.png",
+        "avatar": "https://imgur.com/LpHOObW",
     },
     {
         "name": "Goat Clan",
@@ -84,7 +84,7 @@ clans = [
         "lore_tree": "https://imgur.com/DqMcEHZ",
         "relic": "⚱ Eldhrumnir : +20% 🍖 Feast bonus, -50% 🍖 Feast cost. Your units regenerate health during a 🍖 Feast. You can build an additional Sheepfold.",
         "clan_color": "0xB4A172",
-        "avatar": "https://imgur.com/cwvMb6d.png",
+        "avatar": "https://imgur.com/cwvMb6d",
 
     },
     {
@@ -95,7 +95,7 @@ clans = [
         "lore_tree": "https://imgur.com/KdJHs1s",
         "relic": "⚱ Scabbard of Gram : Your Warchief wields the sword Gram. Enemies hit by Gram are frozen, along with the area around them. Gives +10% attack, +10% defense to Shield Maiden.",
         "clan_color": "0x564201",
-        "avatar": "https://imgur.com/Ap20vYR.png",
+        "avatar": "https://imgur.com/Ap20vYR",
     },
     {
         "name": "Lynx Clan",
@@ -105,7 +105,7 @@ clans = [
         "lore_tree": "https://imgur.com/VQsEgP3",
         "relic": "⚱ Glepnir : Allows you to place a trap in a non-enemy zone. Activate on demand to reveal spikes that damage and slow enemies for as long as they are in the zone. Lasts 30 seconds.",
         "clan_color": "0xCABA88",
-        "avatar": "https://imgur.com/i8M9Usc.png",
+        "avatar": "https://imgur.com/i8M9Usc",
 
     },
     {
@@ -127,7 +127,7 @@ clans = [
         "lore_tree": "https://imgur.com/CLS2DiX",
         "relic": "⚱ Mask of Gullinbursti : Produce +6 🍎 Food. You can pay 150 ᛟ Lore to summon one Giant 🐗 Giant Boar. It is controllable as long as it is not in combat.",
         "clan_color": "0x7E4A15",
-        "avatar": "https://imgur.com/ZmaYfiH.png",
+        "avatar": "https://imgur.com/ZmaYfiH",
 
     },
     {
@@ -139,7 +139,7 @@ clans = [
         "lore_tree": "https://imgur.com/ZBK6fHv",
         "relic": "⚱ Gungnir : All military units get 10% dodge chance. Unlocks the 🥷 Stealth ability for all your military units.",
         "clan_color": "0x2A4029",
-        "avatar": "https://imgur.com/ddfEDsQ.png",
+        "avatar": "https://imgur.com/ddfEDsQ",
 
     },
     {
@@ -150,7 +150,7 @@ clans = [
         "lore_tree": "https://imgur.com/BcG0ndy",
         "relic": "⚱ Aegir : 🪓 Torfin can use Provocation : All enemy units and towers target 🪓 Torfin during a short period and his defense is increased by 100% for 6 seconds.",
         "clan_color": "0x3E3003",
-        "avatar": "https://imgur.com/aDOY98l.png",
+        "avatar": "https://imgur.com/aDOY98l",
 
     }
 ]
